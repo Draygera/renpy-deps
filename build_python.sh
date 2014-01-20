@@ -1,7 +1,7 @@
 #!/bin/bash
 
-SOURCE=`dirname "$0"`/source
 PWD=`pwd`
+SOURCE=$PWD/source
 BUILD=$PWD/build
 INSTALL=$PWD/install
 
